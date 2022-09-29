@@ -6,6 +6,8 @@
 
 * *git config --global user.name Name* - установит имя пользователя в git
 
+* *git config --global user.email email* - установит email пользователя в git
+
 *git init* - команда выполняется внутри папки, делает папку репозиторием
 
 *git add* - добавляет файлы к отслеживанию
