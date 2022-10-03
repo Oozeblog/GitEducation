@@ -44,6 +44,10 @@
 
 * *git checkout < BranchName > - переход на ветку BranchName
 
+* *git branch -d < BranchName >* - удалить ветку BranchName
+
+ **Перед удалением веток необходимо убедиться, что вся нужная информация слита и сохранена на ветке мастер!**
+
 ### Слияние веток
 
 * *git merge < BranchName >* - сливает ветку BranchName в ветку master (при нахождении на ветке master)
