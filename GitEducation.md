@@ -42,7 +42,9 @@
 
 * *git branch* - просмотреть список веток имеющихсяся в репозитории
 
-* *git checkout < BranchName > - переход на ветку BranchName
+* *git checkout < BranchName >* - переход на ветку BranchName
+
+* *git branch -d < BranchName>* - удалить ветку BranchName
 
 ### Слияние веток
 
