@@ -42,6 +42,8 @@
 
 * *git branch* - просмотреть список веток имеющихсяся в репозитории
 
+* *git checkout < BranchName > - переход на ветку BranchName
+
 ### Слияние веток
 
 * *git merge < BranchName >* - сливает ветку BranchName в ветку master (при нахождении на ветке master)
